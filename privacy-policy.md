@@ -6,7 +6,7 @@ and otherwise process information relating to individuals. In this Policy, "Pers
 
 ### Scope
 
-This policy applies to the Storelinez websites and app.
+This policy applies to the Healthstarks websites and app.
 
 This Policy does not apply to third-party applications, websites, products, services or platforms that may be accessed through (non healthstarks ) links that we may provide to you. These sites are owned and operated independently from us, and they have their own separate privacy and data collection practices. Any personal data that you provide to these websites will be governed by the third-party’s own privacy policy. 
 We cannot accept liability for the actions or policies of these independent sites, and we are not responsible for the content or privacy practices of such sites.
